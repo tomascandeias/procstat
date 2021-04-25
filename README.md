@@ -1,8 +1,9 @@
 # ProcStat
+Bash script that shows statistics of the memory used and how much I/O all or a portion of the processes that are running are using.
 
 ## Description
 
-Bash script that shows statistics of the memory used and how much I/O all or a portion of the processes that are running are using.
+This script allows you to visualize how much memory a process is using in total, how much physical memory a process is occupying, the total number of bytes of I/O that a process wrote/read and also the rate of I/O corresponding to the last s seconds.
 
 ## Getting Started
 
